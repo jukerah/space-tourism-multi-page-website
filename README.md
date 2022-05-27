@@ -1,46 +1,87 @@
-# Getting Started with Create React App
+<h1 align="center">Frontend Mentor - Space Tourism Multi Page Websit</h1>
+<img src="public/assets/preview/preview.jpg"/>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br>
 
-## Available Scripts
+Sumário
+=================
+<!--ts-->
+   * [Descrição do Projeto](#about)
+   * [Demonstração do projeto](#demo-project)
+   * [Features](#features)
+   * [Pré-requisitos e instalação do projeto](#pre-req)
+<!--te-->
 
-In the project directory, you can run:
+<hr/>
+
+<h2 id="about" align="center">Descrição do Projeto</h2>
+
+<p align="left">Este desafio é construir um website de turismo espacial e seguir fielmente o design fornecido pelo Frontend Mentor em Figma.</p>
+
+### O projeto concentra-se em:
+
+- Marcação HTML5 semântica
+- Fluxo de trabalho mobile-first
+- [React](https://reactjs.org/) - biblioteca JS
+- [Styled Components](https://styled-components.com/) - Para estilização
+
+<p align="left">Link do desafio no Frontend Mentor:</p>
+
+<a href="https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3">https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3</a>
+
+<hr>
+
+<p align="left">Funcionalidades solicitadas:</p>
+
+<p align="left">•   Visualizar o layout ideal para cada uma das páginas do site, dependendo do tamanho da tela do dispositivo.<p>
+
+<p align="left">•   Veja os estados de foco para todos os elementos interativos na página.</p>
+
+<p align="left">•   Visualizar cada página e seja capaz de alternar entre as guias para ver novas informações.</p>
+
+<hr/>
+
+<h2 id="demo-project" align="center">Demonstração do projeto</h2>
+<a href="#" align="left">em breve</a>
+
+<hr/>
+
+<h2 id="features" align="center">Features</h2>
+
+- [x] Estrutura do projeto.
+- [ ] Criação do menu mobile
+- [ ] Criando responsividade do menu para tablet e desktop.
+
+<hr/>
+
+<h2 id="pre-req" align="center">Pré-requisitos e instalação do projeto</h2>
+
+<p align="left">Para executar o projeto é necessário baixar o arquivo zip ou clonar o projeto e depois executar os comandos abaixo no terminal.</p>
+
+## Comando para instalar o projeto:
+
+### `npm install`
+
+## Comando para executar o projeto:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Visualizar o projeto:
+[http://localhost:3000](http://localhost:3000)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<hr>
 
-### `npm test`
+## Autor
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+ <br />
 
-### `npm run build`
+<a href="https://marioelvio.com">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/81795443?v=4" width="100px;" alt=""/>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<sub><b>Mario Elvio</b></sub></a> <a href="https://marioelvio.com" title="Mario Elvio"></a>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Feito com ❤️ por Mario Elvio 👋🏽 Entre em contato!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+[![Linkedin Badge](https://img.shields.io/badge/-Mario_Elvio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marioelvio/)](https://www.linkedin.com/in/marioelvio/)
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
